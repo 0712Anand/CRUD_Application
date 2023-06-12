@@ -3,4 +3,5 @@ A CRUD application is a portal where data can be stored and manipulated . A user
 This is a Python CRUD (Create, Read, Update, Delete) project that utilizes Flask, a Python web framework, and MySQL database. It provides a basic REST API for managing student records and their marks for a particular course .
 # Installation:
 git clone https://github.com/0712Anand/CRUD_Application
+# set requirements 
 pip install -r requirements
