@@ -8,7 +8,7 @@ git clone https://github.com/0712Anand/CRUD_Application
 ```
 # set requirements 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 # Authors:
 - Karan Panda
