@@ -1,0 +1,2 @@
+pymysql==0.10.1
+prettytable==2.1.0
